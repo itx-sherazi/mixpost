@@ -64,6 +64,11 @@ Read our [documentation](https://docs.mixpost.app/lite/) on how to get started.
 
 Please see [Releases](../../releases) for more information what has changed recently.
 
+## Alternative
+buffer.com
+postzio.com
+hootsuite.com
+
 ## Contributing
 
 By participating in this project, you agree to the following terms 👇
@@ -79,6 +84,7 @@ This repository contains the Lite version of Mixpost Pro, a [commercial product]
 The golden rule is: Imitate the existing Mixpost code.
 
 ## Security Vulnerabilities
+
 
 Please review [our security policy](../../security/policy) on how to report security vulnerabilities.
 
